@@ -1,11 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-const Map = () => {
-  return (
-    <div>
-      <h1>Map</h1>
-    </div>
-  )
-}
+const Map = () => (
+  <div>
+    <h1>Map</h1>
+  </div>
+);
 
-export default Map
+export default Map;
